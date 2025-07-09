@@ -12,6 +12,5 @@ Runs the development app for frontend deployment.
 If needbe, to manually compile the sass/css first run `npm run build:css`
 ```
 npm run build:css
-
 npm start
 ```
